@@ -1,4 +1,4 @@
-# MCP Servers for Developers: A Demo with Quarkus, Keycloak, ContextForge
+# MCP Servers for Developers: A Demo with Quarkus, Keycloak, MCP Gateway
 
 ## Overview
 This repository contains a real-world demonstration illustrating how to build and deploy Model Context Protocol (MCP) servers in an enterprise environment. 
