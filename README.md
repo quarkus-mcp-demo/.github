@@ -26,7 +26,7 @@ To set up and run the demo, please follow these steps:
 
 ## Resources
 
-1.Token Exchange Setup: https://quarkus.io/blog/secure-mcp-oidc-client/
+1. Token Exchange Setup: https://quarkus.io/blog/secure-mcp-oidc-client/
 2. IBM's opensource MCP Gateway ContextForge: https://ibm.github.io/mcp-context-forge
 
 
