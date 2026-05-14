@@ -28,6 +28,7 @@ To set up and run the demo, please follow these steps:
 
 1. Token Exchange Setup: https://quarkus.io/blog/secure-mcp-oidc-client/
 2. IBM's opensource MCP Gateway ContextForge: https://ibm.github.io/mcp-context-forge
+3. Red Hat Summit 2026 Slides: https://github.com/quarkus-mcp-demo/.github/blob/main/Red%20Hat%20Summit%202026%20MCP%20breakout.pdf
 
 
 Disclaimer: Written with support of NotebookLM
